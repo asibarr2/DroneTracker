@@ -1,0 +1,16 @@
+# Datasets and media - too large for git
+dataset/
+runs/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.xml
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model weights (optional - large files)
+*.pt
